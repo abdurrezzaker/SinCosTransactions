@@ -1,0 +1,8 @@
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\NTPodev01.Form1.resources
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\NTPodev01.SinAndCosForm.resources
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransactions.csproj.GenerateResource.cache
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransactions.AssemblyInfoInputs.cache
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransactions.AssemblyInfo.cs
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransactions.csproj.CoreCompileInputs.cache
+C:\Users\abdur\source\repos\NTPodev01\NTPodev01\obj\Debug\net8.0-windows\SinCosTransaction.SinAndCosForm.resources
